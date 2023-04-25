@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-rads",
+  "version": "1.0.0",
+  "description": "This is the rads helloworld.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadhiAtu/Unlimited23SmartContract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadhiAtu/Unlimited23SmartContract#readme"
+  },
+  "homepage": "https://github.com/RadhiAtu/Unlimited23SmartContract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "keywords": []
+}
